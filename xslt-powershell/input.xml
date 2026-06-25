@@ -1,0 +1,18 @@
+<nodes>
+    <node>
+        <id>P1</id>
+        <name>Product1.png</name>
+    </node>
+    <node>
+        <id>P2</id>
+        <name>Product2.png</name>
+    </node>
+    <node>
+        <id>P3</id>
+        <name>Product3.png</name>
+    </node>
+    <node>
+        <id>P4</id>
+        <name>Product4.png</name>
+    </node>
+</nodes>

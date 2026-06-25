@@ -1,0 +1,8 @@
+<infos>
+    <info prid="ABC" prname="BMW" locid="4BA" from="DE" qt="100" />
+    <info prid="XYZ" prname="Renault" locid="5AV" from="FR" qt="65" />
+    <info prid="ABC" prname="Mercedes Benz" locid="4BA" from="DE" qt="45" />
+    <info prid="XBV" prname="Ford" locid="ABC" from="US" qt="350" />
+	 <info prid="ABC" prname="VW" locid="4BA" from="DE" qt="100" />
+     <info prid="ABC" prname="Elektro" locid="AB5" from="DE" qt="100" />
+</infos>

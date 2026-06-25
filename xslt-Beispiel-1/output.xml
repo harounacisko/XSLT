@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infos>
+   <info prid="ABC" locid="4BA" from="DE">
+      <prname qt="100">BMW</prname>
+      <prname qt="45">Mercedes Benz</prname>
+      <prname qt="100">VW</prname>
+   </info>
+   <info prid="XYZ" locid="5AV" from="FR">
+      <prname qt="65">Renault</prname>
+   </info>
+   <info prid="XBV" locid="ABC" from="US">
+      <prname qt="350">Ford</prname>
+   </info>
+   <info prid="ABC" locid="AB5" from="DE">
+      <prname qt="100">Elektro</prname>
+   </info>
+</infos>
