@@ -13,7 +13,10 @@
       <xsl:apply-templates select="node()"/>
     </xsl:copy>
   </xsl:template>
-  
+  <!--
+  xslt replace(text,'-[0-9]{1,2}@','irgendwas')
+  [0-9]{1,2}@ => - suivi d'au moins une chiffre et au plus deux chiffre puis suivi de @
+-->
   <xsl:template match="element">
     <xsl:variable name="elementPosition"  select="count(./preceding-sibling::element) + 1"/>
     <element id="{replace(@id,'-[0-9]{1,2}@',concat('-',$elementPosition,'@'))}" type="{@type}">
