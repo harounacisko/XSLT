@@ -1,0 +1,102 @@
+<patchset cp="cp" version="1.2">
+    <element id="3848bad3-f5ee-4c6b-a7b2-406fb742d1e9@1044015755-1@title#2#1#3##0" type="Block">
+        <propertyChanged name="FontSize" value="10pt" />
+    </element>
+    <element
+        id="06ded4cc-6bae-494b-86e3-1a7d60f8354a@341325195-2@safety_instruction#2#1#6#2##2#3#0#1"
+        type="ListItem">
+        <propertyChanged name="FontSize" value="10pt" />
+    </element>
+    <element id="3848bad3-f5ee-4c6b-a7b2-406fb742d1e9@1044015755-8@title#3#1#3##0" type="Block">
+        <propertyChanged name="FontSize" value="10pt" />
+    </element>
+    <element
+        id="06ded4cc-6bae-494b-86e3-1a7d60f8354a@341325195-3@safety_instruction#3#1#6#2##2#3#0#1"
+        type="ListItem">
+        <propertyChanged name="FontSize" value="10pt" />
+    </element>
+    <element id="e320ecef-404e-4529-b9be-4a4182bf59ba@973563787-3@title#4#1#5##0" type="Table">
+        <propertyChanged name="PageBreakBefore" value="Column" />
+    </element>
+    <element id="e320ecef-404e-4529-b9be-4a4182bf59ba@1852462859-4@title#5#1#4##0" type="Table">
+        <propertyChanged name="PageBreakBefore" value="Column" />
+    </element>
+    <element id="e320ecef-404e-4529-b9be-4aete2bf59ba@1852462859-4@test#5#1#4##0" type="Table">
+        <propertyChanged name="PageBreakBefore" value="Column" />
+    </element>
+    <element id="3848bad3-f5ee-4c6b-a7b2-406fb742d1e9@1044015755-1@title#2#1#3##0" type="Block">
+        <propertyChanged name="FontSize" value="10pt" />
+    </element>
+    <element
+        id="06ded4cc-6bae-494b-86e3-1a7d60f8354a@341325195-2@safety_instruction#2#1#6#2##2#3#0#1"
+        type="ListItem">
+        <propertyChanged name="FontSize" value="10pt" />
+    </element>
+    <element id="3848bad3-f5ee-4c6b-a7b2-406fb742d1e9@1044015755-8@title#3#1#3##0" type="Block">
+        <propertyChanged name="FontSize" value="10pt" />
+    </element>
+    <element
+        id="06ded4cc-6bae-494b-86e3-1a7d60f8354a@341325195-3@safety_instruction#3#1#6#2##2#3#0#1"
+        type="ListItem">
+        <propertyChanged name="FontSize" value="10pt" />
+    </element>
+    <element id="e320ecef-404e-4529-b9be-4a4182bf59ba@973563787-3@title#4#1#5##0" type="Table">
+        <propertyChanged name="PageBreakBefore" value="Column" />
+    </element>
+    <element id="e320ecef-404e-4529-b9be-4a4182bf59ba@1852462859-4@title#5#1#4##0" type="Table">
+        <propertyChanged name="PageBreakBefore" value="Column" />
+    </element>
+    <element id="e320ecef-404e-4529-b9be-4aete2bf59ba@1852462859-4@test#5#1#4##0" type="Table">
+        <propertyChanged name="PageBreakBefore" value="Column" />
+    </element>
+    <element id="3848bad3-f5ee-4c6b-a7b2-406fb742d1e9@1044015755-1@title#2#1#3##0" type="Block">
+        <propertyChanged name="FontSize" value="10pt" />
+    </element>
+    <element
+        id="06ded4cc-6bae-494b-86e3-1a7d60f8354a@341325195-2@safety_instruction#2#1#6#2##2#3#0#1"
+        type="ListItem">
+        <propertyChanged name="FontSize" value="10pt" />
+    </element>
+    <element id="3848bad3-f5ee-4c6b-a7b2-406fb742d1e9@1044015755-8@title#3#1#3##0" type="Block">
+        <propertyChanged name="FontSize" value="10pt" />
+    </element>
+    <element
+        id="06ded4cc-6bae-494b-86e3-1a7d60f8354a@341325195-3@safety_instruction#3#1#6#2##2#3#0#1"
+        type="ListItem">
+        <propertyChanged name="FontSize" value="10pt" />
+    </element>
+    <element id="e320ecef-404e-4529-b9be-4a4182bf59ba@973563787-3@title#4#1#5##0" type="Table">
+        <propertyChanged name="PageBreakBefore" value="Column" />
+    </element>
+    <element id="e320ecef-404e-4529-b9be-4a4182bf59ba@1852462859-4@title#5#1#4##0" type="Table">
+        <propertyChanged name="PageBreakBefore" value="Column" />
+    </element>
+    <element id="e320ecef-404e-4529-b9be-4aete2bf59ba@1852462859-4@test#5#1#4##0" type="Table">
+        <propertyChanged name="PageBreakBefore" value="Column" />
+    </element>
+    <element id="3848bad3-f5ee-4c6b-a7b2-406fb742d1e9@1044015755-1@title#2#1#3##0" type="Block">
+        <propertyChanged name="FontSize" value="10pt" />
+    </element>
+    <element
+        id="06ded4cc-6bae-494b-86e3-1a7d60f8354a@341325195-2@safety_instruction#2#1#6#2##2#3#0#1"
+        type="ListItem">
+        <propertyChanged name="FontSize" value="10pt" />
+    </element>
+    <element id="3848bad3-f5ee-4c6b-a7b2-406fb742d1e9@1044015755-8@title#3#1#3##0" type="Block">
+        <propertyChanged name="FontSize" value="10pt" />
+    </element>
+    <element
+        id="06ded4cc-6bae-494b-86e3-1a7d60f8354a@341325195-3@safety_instruction#3#1#6#2##2#3#0#1"
+        type="ListItem">
+        <propertyChanged name="FontSize" value="10pt" />
+    </element>
+    <element id="e320ecef-404e-4529-b9be-4a4182bf59ba@973563787-3@title#4#1#5##0" type="Table">
+        <propertyChanged name="PageBreakBefore" value="Column" />
+    </element>
+    <element id="e320ecef-404e-4529-b9be-4a4182bf59ba@1852462859-4@title#5#1#4##0" type="Table">
+        <propertyChanged name="PageBreakBefore" value="Column" />
+    </element>
+    <element id="e320ecef-404e-4529-b9be-4aete2bf59ba@1852462859-4@test#5#1#4##0" type="Table">
+        <propertyChanged name="PageBreakBefore" value="Column" />
+    </element>
+</patchset>
